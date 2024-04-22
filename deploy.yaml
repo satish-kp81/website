@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: satishkp81/project2:latest
+        image: satishkp81/project:latest
         ports:
         - containerPort: 80
